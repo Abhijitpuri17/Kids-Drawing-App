@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Kids Drawing App</string>
+    <string name="image_small">image small</string>
+    <string name="brush_image">Brush Image</string>
+    <string name="gallery">Gallery</string>
+    <string name="undo_button">undo button</string>
+    <string name="save_image_button">save image button</string>
+    <string name="background_image">Background Image</string>
+</resources>
